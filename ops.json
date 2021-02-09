@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "uuid": "c68ac394-9e20-395f-80f6-05a419a27398",
+    "name": "EternalKnight",
+    "level": 4
+  },
+  {
+    "uuid": "d9c50151-557e-3a59-b3e8-5bb21434a532",
+    "name": "Everlag",
+    "level": 4
+  }
+]

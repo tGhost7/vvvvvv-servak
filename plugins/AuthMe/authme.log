@@ -136,3 +136,190 @@
 [02-09 20:21:49]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
 [02-09 20:22:26]: [FINE] EternalKnight logged in!
 [02-09 20:27:32]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[02-09 20:34:33]: [INFO] SQLite Setup finished
+[02-09 20:34:33]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 20:34:33]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 20:34:33]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 20:34:33]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 20:34:33]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 20:34:33]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 20:34:33]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 20:34:46]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[02-09 20:38:11]: [INFO] SQLite Setup finished
+[02-09 20:38:11]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 20:38:11]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 20:38:11]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 20:38:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 20:38:11]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 20:38:11]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 20:38:11]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 20:39:34]: [FINE] Everlag registered 127.0.0.1
+[02-09 20:39:34]: [FINE] The user Everlag has 2 accounts:
+[02-09 20:39:34]: [FINE] §7eternalknight, §aEverlag§7.
+[02-09 20:39:34]: [FINE] Everlag logged in!
+[02-09 20:41:53]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[02-09 20:42:42]: [INFO] SQLite Setup finished
+[02-09 20:42:42]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 20:42:42]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 20:42:42]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 20:42:42]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 20:42:42]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 20:42:42]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 20:42:42]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 20:43:07]: [FINE] Everlag logged in!
+[02-09 20:43:22]: [FINE] EternalKnight logged in!
+[02-09 21:03:36]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[02-09 21:05:46]: [INFO] SQLite Setup finished
+[02-09 21:05:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 21:05:46]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 21:05:46]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 21:05:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 21:05:46]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 21:05:46]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 21:05:46]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 21:09:55]: [INFO] SQLite Setup finished
+[02-09 21:09:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 21:09:55]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 21:09:55]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 21:09:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 21:09:55]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 21:09:55]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 21:09:55]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 21:11:02]: [INFO] SQLite Setup finished
+[02-09 21:11:02]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 21:11:02]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 21:11:02]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 21:11:02]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 21:11:02]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 21:11:02]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 21:11:02]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 21:12:22]: [FINE] Everlag logged in!
+[02-09 21:22:51]: [INFO] SQLite Setup finished
+[02-09 21:22:51]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-09 21:22:51]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[02-09 21:22:51]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+[02-09 21:22:51]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-09 21:22:51]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[02-09 21:22:51]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[02-09 21:22:51]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[02-09 21:23:45]: [FINE] Everlag logged in!
+[02-09 21:26:59]: [INFO] AuthMe 5.4.0-b1877 disabled!
